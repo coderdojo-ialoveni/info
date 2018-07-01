@@ -7,6 +7,7 @@ Surse pentru învățat lecțiile CoderDojo Ialoveni.
 ### HTML
 
 - [Prezentare HTML](https://docs.google.com/presentation/d/1YM0bEnfPRmc19r1hxjj_MslT-WdbOX5R0GYBAnmhQ_0)
+- [Elementele HTML](https://docs.google.com/presentation/d/1UZb0x9by_cOXqKpLBFuDDkklwy0T2lI1TSmGqM8wHyQ)
 - [Mozilla - Noțiuni de bază HTML](https://developer.mozilla.org/ro/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [Getting started](https://developer.mozilla.org/ro/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 - [The head metadata in HTML](https://developer.mozilla.org/ro/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
