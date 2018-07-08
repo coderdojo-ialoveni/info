@@ -16,6 +16,10 @@ Surse pentru învățat lecțiile CoderDojo Ialoveni.
 - [Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
 - [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
+### CSS
+
+- [Prezentare CSS](https://docs.google.com/presentation/d/1MKPPnTlfEPnarv2PSsv8yp7wuzxSPN3wKmjzpZRDyVs)
+
 ### Unelte
 
 Aplicații și alte unelte utile.
