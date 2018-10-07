@@ -22,6 +22,10 @@ Surse pentru învățat lecțiile CoderDojo Ialoveni.
 
 - [Prezentare CSS](https://docs.google.com/presentation/d/1MKPPnTlfEPnarv2PSsv8yp7wuzxSPN3wKmjzpZRDyVs)
 
+### HTTP
+
+- [Protocolul HTTP](https://docs.google.com/presentation/d/1ERMUds4-5BsSMja76fMFK9WK9tduNivZr_17DozHiu8)
+
 ### Unelte
 
 Aplicații și alte unelte utile.
