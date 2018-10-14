@@ -4,6 +4,10 @@
 
 Surse pentru învățat lecțiile CoderDojo Ialoveni.
 
+### JS
+
+- [Lectia 1](https://docs.google.com/presentation/d/1h0LgTrZC_2QITikfZmKU4y73KQheh4bIko1rnqwHhEM)
+
 ### HTML
 
 - [Prezentare HTML](https://docs.google.com/presentation/d/1YM0bEnfPRmc19r1hxjj_MslT-WdbOX5R0GYBAnmhQ_0)
