@@ -8,6 +8,9 @@ Surse pentru învățat lecțiile CoderDojo Ialoveni.
 
 - [Lectia 1](https://docs.google.com/presentation/d/1h0LgTrZC_2QITikfZmKU4y73KQheh4bIko1rnqwHhEM)
 - [Lectia 2](https://docs.google.com/presentation/d/1Khsl2tF_djWxPv80awRDp_mELAs0fFhwNRUIwbirpeA)
+- [Lectia 3](https://docs.google.com/presentation/d/1wajh55haC4qGz28VdHhgy0ugWJKy-aoNz62Zl9MvoDc)
+- [Lectia 4](https://docs.google.com/presentation/d/1yULbRm2cLScanodN3o3GD3aE4ZWlbojbeqa3dVrGzGw)
+
 
 ### HTML
 
