@@ -11,6 +11,7 @@ Surse pentru învățat lecțiile CoderDojo Ialoveni.
 - [Lectia 3](https://docs.google.com/presentation/d/1wajh55haC4qGz28VdHhgy0ugWJKy-aoNz62Zl9MvoDc)
 - [Lectia 4](https://docs.google.com/presentation/d/1yULbRm2cLScanodN3o3GD3aE4ZWlbojbeqa3dVrGzGw)
 - [Lectia 5](https://docs.google.com/presentation/d/1GJUAYR6i5C8OJNjbPdUsEH5Qohxul-oa2iofIZtZfmM)
+- [Variabile](https://docs.google.com/presentation/d/1R7UKoT06aBA8cHShP0NPQ1zESKrTsZHNsYN0yf7yHwA)
 
 
 ### HTML
