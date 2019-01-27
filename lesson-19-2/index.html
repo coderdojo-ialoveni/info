@@ -1,0 +1,93 @@
+<html>
+
+<head>
+    <script src="./ex1.js"></script>
+    <script>
+        var pictor;
+
+        setTimeout(function () {
+            pictor = new Pictor(document.getElementById('canvas').getContext('2d'));
+        }, 500);
+
+        function deseneazaDreptunchi() {
+            var x = document.querySelector('#dreptunchi input[name=x]').value;
+            var y = document.querySelector('#dreptunchi input[name=y]').value;
+            var lungime = document.querySelector('#dreptunchi input[name=lungime]').value;
+            var latime = document.querySelector('#dreptunchi input[name=latime]').value;
+            var culoare = document.querySelector('#dreptunchi input[name=culoare]').value;
+
+            var dreptunghi = new Dreptunghi(new Point(x, y), lungime, latime, culoare);
+
+            pictor.deseneazaDreptunchi(dreptunghi);
+        }
+
+        function deseneazaCerc() {
+            var x = document.querySelector('#cerc input[name=x]').value;
+            var y = document.querySelector('#cerc input[name=y]').value;
+            var raza = document.querySelector('#cerc input[name=raza]').value;
+            var culoare = document.querySelector('#cerc input[name=culoare]').value;
+
+            var cerc = new Cerc(new Point(x, y), raza, culoare);
+
+            pictor.deseneazaCerc(cerc);
+        }
+    </script>
+</head>
+
+<body>
+    <canvas id='canvas' width="400px" height="400px" style="float: left"></canvas>
+    <div>
+        <h4>Dreptunghi</h4>
+        <table style="width: 400px" id="dreptunchi">
+            <tr>
+                <th>X</th>
+                <td><input name='x' type="number" value="10" /></td>
+            </tr>
+            <tr>
+                <th>Y</th>
+                <td><input name='y' type="number" value="10" /></td>
+            </tr>
+            <tr>
+                <th>Lungime</th>
+                <td><input name='lungime' type="number" value="100" /></td>
+            </tr>
+            <tr>
+                <th>Latime</th>
+                <td><input name='latime' type="number" value="40" /></td>
+            </tr>
+            <tr>
+                <th>Culoare</th>
+                <td><input name='culoare' value="#ca0000" /></td>
+            </tr>
+            <tr>
+                <th></th>
+                <td><button onclick="deseneazaDreptunchi()">Deseneaza</button></td>
+            </tr>
+        </table>
+        <h4>Cerc</h4>
+        <table style="width: 400px" id="cerc">
+            <tr>
+                <th>X</th>
+                <td><input name='x' type="number" value="100" /></td>
+            </tr>
+            <tr>
+                <th>Y</th>
+                <td><input name='y' type="number" value="200" /></td>
+            </tr>
+            <tr>
+                <th>Raza</th>
+                <td><input name='raza' type="number" value="50" /></td>
+            </tr>
+            <tr>
+                <th>Culoare</th>
+                <td><input name='culoare' value="#456234" /></td>
+            </tr>
+            <tr>
+                <th></th>
+                <td><button onclick="deseneazaCerc()">Deseneaza</button></td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>
