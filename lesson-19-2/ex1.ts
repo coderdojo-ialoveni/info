@@ -49,4 +49,3 @@ class Pictor {
         this.context.fill();
     }
 }
-

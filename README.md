@@ -12,6 +12,7 @@ Surse pentru învățat lecțiile CoderDojo Ialoveni.
 - [Funcții](https://docs.google.com/presentation/d/1yULbRm2cLScanodN3o3GD3aE4ZWlbojbeqa3dVrGzGw)
 - [Array](https://docs.google.com/presentation/d/1GJUAYR6i5C8OJNjbPdUsEH5Qohxul-oa2iofIZtZfmM)
 - [Variabile](https://docs.google.com/presentation/d/1R7UKoT06aBA8cHShP0NPQ1zESKrTsZHNsYN0yf7yHwA)
+- [Introducere OOP](https://docs.google.com/presentation/d/1nGMiUN8r89EQKdVW4gMRuFvmuuvonOC4IETCQFsEhlo)
 
 
 ### HTML
